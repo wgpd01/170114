@@ -1,1 +1,11 @@
-# 170114
+# 2017-01-14 課程
+- Medial Query 的語法與效果
+- ViewPort 語法
+- 實例研討因應不同裝置大小與解析度，如何調整版型、字體、圖片
+- 探討 Bootstrap 如何進行 Responsive Design
+- 探討 jQuery Mobile 如何進行 Responsive Design
+- Selector 語法重點整理
+- 以 jQuery 存取元素內容與屬性
+- 以 jQuery 調控 CSS 樣式
+- jQuery 事件處理函式
+- 其他常用 jQuery API
