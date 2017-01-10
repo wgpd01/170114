@@ -1,0 +1,37 @@
+﻿1. 	以 HTML Editor 開啟 Lab_ResponsiveDesign.html，瀏覽 HTML 與 CSS 設定。
+
+
+2. 	在瀏覽器測試 Lab_ResponsiveDesign.html。
+	手動調整瀏覽器視窗的寬度，看看排版畫面有沒有變化，是否有文字漏在畫面之外。
+
+
+3.	在 </style> 之前，加入以下的 Media Query:
+
+@media screen and (max-width: 790px) {  
+
+}
+
+
+4.	在 @media 的大括號之內，重新定義 #wrapper 的寬度為 100%，如下:  
+@media screen and (max-width: 790px) {
+	#wrapper {
+		width: 100%;
+		border: 1px solid #003;
+	}
+
+}
+
+5. 	在瀏覽器測試 Lab_ResponsiveDesign.html。
+	手動調整瀏覽器視窗的寬度，看看排版畫面有沒有變化，是否有文字漏在畫面之外。
+	(這次的情況應該改善很多)
+	
+
+6.	瀏覽器視窗的寬度縮到很窄時，「隨著各種裝置的各種解析度自動調整版面」這句會超出框線。
+	請問該如何修正?
+
+
+7.	如果希望在小畫面時自動使用較大字體，請問該怎麼設定?
+
+
+
+
